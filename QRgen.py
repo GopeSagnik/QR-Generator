@@ -1,5 +1,4 @@
 from email.mime import image
-from msilib.schema import Font
 import qrcode as qr
 from tkinter import *
 from PIL import Image, ImageTk
